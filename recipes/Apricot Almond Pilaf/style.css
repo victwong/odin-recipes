@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.pilafimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.description {
+    font-size: larger;
+    margin: 50px;
+    text-align: center;
+}
+
+ul {
+    font-style: italic;
+    margin-bottom: 50px;
+}
