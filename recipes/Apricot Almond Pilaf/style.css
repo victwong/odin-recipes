@@ -18,4 +18,14 @@ h1 {
 ul {
     font-style: italic;
     margin-bottom: 50px;
+    margin-left: 10px;
+}
+
+h3 {
+    margin-left:10px;
+}
+
+.steps {
+    margin-bottom: 50px;
+    margin-left: 10px;
 }
